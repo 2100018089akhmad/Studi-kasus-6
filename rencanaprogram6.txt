@@ -1,0 +1,10 @@
+Penginputan Nilai
+Mencari nilai tugas,uts,uas(20% + 35% + 45%),dan nilai akhir
+Mencari nilai rata rata
+Masukkan mata Kuliah : INFORMATIKA  
+Masukkan nama Mahasiswa : ABDAN SYAKURA
+Nilai tugas :
+Nilai uts :
+Nilai uas :
+Nilai rata rata :
+Nilai akhir :
